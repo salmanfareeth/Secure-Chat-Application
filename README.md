@@ -21,13 +21,13 @@ This project is a secure chat application implemented in Python using socket pro
 ## Installation
 
 1. **Clone the repository**:
-    ```bash
+    ```py
     git clone https://github.com/salmanfareeth/Secure-Chat-Application.git
     cd secure-chat-application
     ```
 
 2. **Install the required packages**:
-    ```bash
+    ```py
     pip install cryptography
     ```
 
@@ -88,4 +88,4 @@ This tool is in beta version.
 
 ## Contact
 
-For any questions or feedback, please contact [salmanfareeth].
+For any questions or feedback, please contact `salmanfareeth`.
