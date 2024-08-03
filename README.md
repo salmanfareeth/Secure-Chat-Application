@@ -2,6 +2,14 @@
 
 This project is a secure chat application implemented in Python using socket programming and encryption techniques. The application includes a graphical user interface (GUI) for a better user experience. It supports secure communication, user authentication, end-to-end encryption, and a secure key exchange mechanism.
 
+```
+   ____            ___        ____                       _______        __  ___          
+  / __/_ _____ ___/ ( )___   / __/__ ______ _________   / ___/ /  ___ _/ /_/ _ )___ __ __
+ _\ \/ // / -_) _  /|/(_-<  _\ \/ -_) __/ // / __/ -_) / /__/ _ \/ _ `/ __/ _  / _ \\ \ /
+/___/\_, /\__/\_,_/  /___/ /___/\__/\__/\_,_/_/  \__/  \___/_//_/\_,_/\__/____/\___/_\_\ 
+    /___/                                                                                
+```
+
 ## Features
 
 - **Secure Communication**: Implements encryption algorithms to secure the communication between the clients and the server using AES (Advanced Encryption Standard) and RSA (Rivest–Shamir–Adleman) algorithms.
